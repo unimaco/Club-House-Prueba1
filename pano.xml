@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" start="node1" apprev="18080">
+  <panorama id="node1">
+    <input height="2160" levelbias="0.400" width="3840" leveltilesize="510" levelingroll="0" levelingpitch="0" flat="1" levelbiashidpi="1.000" overlap="1" cylinder="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2160" width="3840" predecode="0" preload="0"/>
+      <level height="1080" width="1920" predecode="0" preload="0"/>
+      <level height="540" width="960" predecode="0" preload="0"/>
+      <level height="270" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata comment="" heading="0" author="" copyright="" source="" latitude="" nodeid="node1" datetime="" customnodeid="" tags="PANO AMELIA" description="" info="" title="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" borderradius="1" bordercolor="0x000000" backgroundalpha="1" border="1" borderalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" softedge="0" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" enabled="1" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextvr="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" hideabout="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input fliplr="0" height="1024" levelbias="0.400" width="1024" leveltilesize="510" levelingroll="0" levelingpitch="0" stereo="1" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata comment="" heading="0" author="" copyright="" source="" latitude="" nodeid="node2" datetime="" customnodeid="" tags="PANO AMELIA" description="" info="" title="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" borderradius="1" bordercolor="0x000000" backgroundalpha="1" border="1" borderalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" softedge="0" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" enabled="1" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextvr="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" hideabout="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1024" levelbias="0.400" width="1024" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata comment="" heading="0" author="" copyright="" source="" latitude="" nodeid="node3" datetime="11/04/2023 13:38" customnodeid="" tags="PANO AMELIA" description="" info="" title="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" borderradius="1" bordercolor="0x000000" backgroundalpha="1" border="1" borderalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" softedge="0" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" enabled="1" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextvr="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" hideabout="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input fliplr="0" height="1024" levelbias="0.400" width="1024" leveltilesize="510" levelingroll="0" levelingpitch="0" stereo="1" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" pan="360" fov="120" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata comment="" heading="0" author="" copyright="" source="" latitude="" nodeid="node4" datetime="" customnodeid="" tags="Pano2VR6" description="" info="" title="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" borderradius="1" bordercolor="0x000000" backgroundalpha="1" border="1" borderalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomfov="20" softedge="0" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" enabled="1" zoomin="0" zoomspeed="2" blendcolor="0x000000" zoomout="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextvr="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" hideabout="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" heading="0" author="" copyright="" source="" latitude="" nodeid="master" datetime="" customnodeid="" tags="" description="" info="" title="" longitude=""/>
+  </masternode>
+  <map height="2160" transparent="0" width="3840" floorplannorth="0" id="FloorPlan01" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1" type="file" title="" tileformat="jpg"/>
+</tour>
